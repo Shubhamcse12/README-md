@@ -7,12 +7,10 @@
   </p>
 
 
-<h1 align="center">Hi there, I'm Ashish<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi there, I'm Shubham<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 
-<!-- **Itsayu/itsayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
- --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="380" height="208"/>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="380" height="208"/>
  
  
 - 🔭 I’m currently working on Problem-Solving Skill
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, I'm happy to help:)
-- 📫 How to reach me: @ashishr_ranjan
+- 📫 How to reach me: @#
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
@@ -32,12 +30,6 @@ Here are some ideas to get you started:
 <h1 align="center">
  <!-- Typing Widget -->
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Web+Developer;Computer+Science+Student;Tech+Geek;Content+Writer&font=sans-serif&center=true&size=12">
-<!--  //[![@ashish's google board](https://www.cloudskillsboost.google/public_profiles/6c0c9365-08db-4c2b-bfcf-92535f227de1)](https://www.cloudskillsboost.google/public_profiles/6c0c9365-08db-4c2b-bfcf-92535f227de1))
- -->
-
-
-
- 
 </h1>
 
 
@@ -65,7 +57,7 @@ Here are some ideas to get you started:
 <be>
 
 <!-- Coding Platform -->
-<!--
+
 <h2 align="center">Coding Platform Where I'm Usually Active</h2>
 <p align="center">
 <a href="https://leetcode.com/itsayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="40" width="50" /></a>
@@ -76,7 +68,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt=" " height="40" width="50" /></a>
 <a href="https://dev.to/itsayu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsayu" height="40" width="50" /></a>
 </p>
-<br> -->
+<br> 
 
 
 <!-- Connect with me -->
