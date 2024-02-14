@@ -14,7 +14,7 @@
  
  
 - 🔭 I’m currently working on Problem-Solving Skill
-- 🌱 I’m currently learning Cpp and Java   
+- 🌱 I’m currently learning Cpp and C++   
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, I'm happy to help:)
@@ -77,10 +77,10 @@
 
 <p align="center">
 <!-- <a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/ashish-ranjan-lnjpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="28" width="40" /></a>
+<a href="www.linkedin.com/in/shubhamcse12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SHUBHAM KUMAR" height="28" width="40" /></a>
 <!-- <a href="https://discord.gg/Itsayu#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a> -->
-<a href="https://instagram.com/ashishr_ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="28" width="38" /></a>
-<a href="mailto:ashishcpr697@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
+<a href="https://instagram.com/ashishr_ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SHUBHAM KUMAR" height="28" width="38" /></a>
+<a href="mailto:ashishcpr697@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="SHUBHAM KUMAR" height="30" width="40" /></a>
 <a href="https://t.me/ashishr_ranjan" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
 
 
